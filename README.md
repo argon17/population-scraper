@@ -6,7 +6,7 @@
 - [How to setup](#how-to-use)
 
 ## Description
-This is a scrapy project, which scrapes population o countries from https://www.worldometers.info/ 
+This is a scrapy project, which scrapes population of countries from https://www.worldometers.info/ 
 ## Extracted Data
 This project extracts country, year and respective population. The extracted data looks like this sample:
 ```
